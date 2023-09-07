@@ -1,0 +1,155 @@
+
+
+nav>ul>li a{
+    display: block;
+    color: white;
+    text-align: center;
+    font-size: medium;
+}
+
+.grid-container .grid-70{
+    border:solid;
+    border-color: white;
+    border-width: 3px;
+    margin-top: 50px;
+  
+}
+#symbol1{          /*archives link*/
+  font-size: x-small;
+  padding-left: 20px;
+  
+  
+}
+#symbol2{
+    padding-left: 10px;
+   
+}
+#symbol3{          /*archives link*/
+    font-size: x-small;
+    padding-left: 20px;
+    
+  }
+  #symbol4{
+      padding-left: 10px;
+  }
+  #symbol5{          /*archives link*/
+    font-size: x-small;
+    padding-left: 20px;
+    
+    
+  }
+  #symbol6{
+      padding-left: 10px;
+      
+  }
+  #symbol7{          /*archives link*/
+    font-size: x-small;
+    padding-left: 20px;
+    
+    
+  }
+  #symbol8{
+      padding-left: 10px;
+      
+  }
+  #symbol9{         /*archives link*/
+    font-size: x-small;
+    padding-left: 20px;
+    
+    
+  }
+  #symbol10{
+      padding-left: 10px;
+      
+  }
+  #symbol11{          /*archives link*/
+    font-size: x-small;
+    padding-left: 20px;
+    
+    
+  }
+  #symbol12{
+      padding-left: 10px;
+      
+  }
+  #symbol13{          /*archives link*/
+    font-size: x-small;
+    padding-left: 20px;
+    
+    
+  }
+  #symbol14{
+      padding-left: 10px;
+      
+  }
+
+  .grid-container1 .grid-10{
+    margin-top: 70px;
+    margin-right: 10px;
+    margin-left: 30px;
+    border: solid;
+    border-width: 2px;
+    border-color:rgb(83, 83, 106);
+  }
+  .grid-container2 .grid-10{
+    margin-top: 70px;
+    margin-right: 10px;
+    margin-left: 70px;
+   
+  }
+  .grid-container3 .grid-10{
+    margin-top: 70px;
+    margin-right: 10px;
+    margin-left: 70px;
+  }
+  .grid-container4 .grid-10{
+    margin-top: 70px;
+    margin-right: 10px;
+    margin-left: 70px;
+  }
+  .grid-container5 .grid-10{
+    margin-top: 70px;
+    margin-right: 10px;
+    margin-left: 70px;
+  }
+  .grid-container6 .grid-10{
+    margin-top: 70px;
+    margin-right: 10px;
+    margin-left: 70px;
+  }
+  #symbol15{
+     color: white;
+     font-size: large;
+     font-weight: 600;
+     
+   
+     margin-top:40px;
+     margin-left: 10px;
+  }
+  #symbol16{
+      color: white;
+      margin-left: 2px;
+     font-size:small;
+  }
+  .grid-container7 .grid-100{
+    margin-top: 30px;
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+  .grid-container8 .grid-15{
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+  .grid-container9 .grid-15{
+    margin-top: 10px;
+    margin-left:120px;
+  }
+  .grid-container10 .grid-15{
+    margin-top: 10px;
+    margin-left:120px;
+  }
+  .grid-container11 .grid-15{
+    margin-top: 10px;
+    margin-left:120px;
+  }
